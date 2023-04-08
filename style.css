@@ -1,0 +1,106 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1390647151/photo/abstract-technology-background-big-data-digital-code-futuristic-dots-background-3d-rendering.jpg?b=1&s=170667a&w=0&k=20&c=kfGdOkhaPrqyFYEdIz7H9oz97YLqlfRGEnc3752QIMQ=);
+    background-size: cover;
+    background-repeat: repeat;
+}
+.box{
+    margin: 50px;
+    padding: 50px;
+    border-radius: 1px;
+    border-color: brown;
+    background-color: aquamarine;
+    border-style: dotted;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    margin: 50px;
+    padding: 50px;
+    border-radius: 50px;
+    border: solid darkgoldenrod;
+    border-style: double;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.blue{
+    background-color: blue;
+    color: aliceblue;
+    justify-content: center;
+    text-align: center;
+}
+.green{
+    background-color: green;
+    color: aliceblue;
+    justify-content: center;
+    text-align: center;
+}
+.black{
+    background-color: black;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+.taskthree{
+    background-color: yellow;
+    margin: 50px;
+    padding: 50px;
+    border: solid black;
+    border-radius: 20px;
+    border-style: double;
+}
+.heading{
+    color: red;
+}
+.para{
+    color: blue;
+    justify-content: end;
+    text-align: end;
+}
+.taskfour{
+    background-color: blueviolet;
+    margin: 50px;
+    padding: 50px;
+}
+.two{
+    color: white;
+}
+.three{
+    color: white;
+}
+.taskfive{
+    border: 1px;
+    border: solid black;
+    border-style: groove;
+    background-color: white;
+    height: 60%;
+}
+.four{
+ text-decoration: overline;
+}
+.five{
+    text-decoration: line-through;
+}
+.six{
+    text-decoration: underline;
+}
+.seven{
+    background-repeat: no-repeat;
+}
+.seven{
+    text-decoration: none;
+}
+
+.flex-box{
+    padding: 50px;
+    margin: 20px;
+    width: 50%;
+    height: 50%;
+    background: linear-gradient(purple,red);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    border: solid blue;
+    box-sizing: border-box;
+}
